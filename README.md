@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm AlexSaini0606</h1>
 <h3 align="center">A passionate Software Engineer from Denmark</h3>
 
-- 🔭 I’m currently working on **University fullstack project**
+- I’m currently working on **University fullstack project**
 
-- 🌱 I’m currently learning **C#, ASP.NET and self learning Machine learning**
+- I’m currently learning **C#, ASP.NET and self learning Machine learning**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
