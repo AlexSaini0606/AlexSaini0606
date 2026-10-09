@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm AlexSaini0606</h1>
-<h3 align="center">A passionate Software Engineer from Denmark</h3>
+<h3 align="center">A Aspiring Software Engineer from Denmark</h3>
 
 - I’m currently working on **University fullstack project**
 
