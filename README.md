@@ -9,7 +9,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alexsaini0606&label=Profile%20views&color=00c6ff&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/github/followers/alexsaini0606?style=for-the-badge&logo=github&color=2c5364" alt="followers" />
 </p>
 
