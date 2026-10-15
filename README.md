@@ -15,15 +15,15 @@
 
 ---
 
-## 👨‍💻 About me
+## About me
 
-- 🔭 Currently working on a **university full-stack project**
-- 🌱 Currently learning **C#, ASP.NET** and self-learning **Machine Learning**
-- 📍 Based in **Denmark**
+-  Currently working on a **university full-stack project**
+-  Currently learning **C#, ASP.NET** and self-learning **Machine Learning**
+-  Based in **Denmark**
 
 ---
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,python,java,js,go,html,css,react,django,postgres,sqlite,unity,git,gcp,figma,ai,ps&perline=9" alt="skills" />
@@ -40,7 +40,7 @@
 
 ---
 
-## 📊 GitHub stats (live, animated)
+##  GitHub stats
 
 <!-- These cards read your real GitHub data, and the bars animate on load. -->
 <p align="center">
@@ -50,16 +50,4 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=alexsaini0606&theme=tokyonight&hide_border=true&background=0D1117" alt="streak" />
-</p>
-
-## 📈 Contribution graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alexsaini0606&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true&custom_title=Contribution%20Activity" alt="activity graph" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00c6ff,50:2c5364,100:0f2027&section=footer" width="100%" alt="footer" />
 </p>
